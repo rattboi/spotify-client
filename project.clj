@@ -7,6 +7,8 @@
                  [compojure "1.4.0"]
                  [clj-http "2.0.0"]
                  [cheshire "5.5.0"]
+                 [clj-time "0.11.0"]
+                 [clj-spotify "0.1.1"]
                  [noir "1.3.0"]]
   :main ^:skip-aot spotify-client.core
   :target-path "target/%s"
